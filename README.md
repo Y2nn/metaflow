@@ -1,25 +1,25 @@
 # Metaflow: Build and Scale Data Workflows
 
- Metaflow is a Python framework designed to help manage data science projects.
+Metaflow is a Python framework designed to help manage data science projects.
 
-    Netflix initially developed the tool to help data scientists and machine learning engineers be more productive.
+Netflix initially developed the tool to help data scientists and machine learning engineers be more productive.
 
-    It achieves this objective by simplifying complex tasks, like workflow orchestration,
-    which ensures that processes run smoothly from start to finish.
+It achieves this objective by simplifying complex tasks, like workflow orchestration,
+which ensures that processes run smoothly from start to finish.
 
-    Key features of Metaflow include:
-        
-        - Automatic data versioning, which tracks changes to your workflows
-        
-        - Support for scalable workflows, which enables users to handle larger datasets and more complex tasks.
+Key features of Metaflow include:
+    
+    - Automatic data versioning, which tracks changes to your workflows
+    
+    - Support for scalable workflows, which enables users to handle larger datasets and more complex tasks.
 
-    Another perk of Metaflow is that it integrates easily with AWS.
-    This means users can leverage cloud resources for storage and computing power.
+Another perk of Metaflow is that it integrates easily with AWS.
+This means users can leverage cloud resources for storage and computing power.
 
-    Additionally, its user-friendly Python API makes it accessible to both beginners and experienced users.
+Additionally, its user-friendly Python API makes it accessible to both beginners and experienced users.
 
-    Metaflow uses the dataflow paradigm, which represents a program as a directed graph of operations.
-    This approach is ideal for building data processing pipelines, especially in machine learning.
+Metaflow uses the dataflow paradigm, which represents a program as a directed graph of operations.
+This approach is ideal for building data processing pipelines, especially in machine learning.
 
 Metaflow Project:
 
